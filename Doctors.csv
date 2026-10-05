@@ -1,0 +1,61 @@
+DoctorID,DoctorName,Specialty,DepartmentID,ExperienceYears
+DR001,Dr. Karthik Sharma,Cardiology,D01,20
+DR002,Dr. Vikram Raj,Orthopedics,D02,21
+DR003,Dr. Senthil Venkatesh,Neurology,D03,22
+DR004,Dr. Revathi Pillai,Oncology,D04,6
+DR005,Dr. Senthil Nair,Pediatrics,D05,7
+DR006,Dr. Naveen Nair,Gynecology,D06,25
+DR007,Dr. Lakshmi Subramanian,General Medicine,D07,5
+DR008,Dr. Kavitha Krishnan,Emergency,D08,25
+DR009,Dr. Divya Sharma,Gastroenterology,D09,21
+DR010,Dr. Anitha Reddy,Dermatology,D10,27
+DR011,Dr. Revathi Subramanian,ENT,D11,12
+DR012,Dr. Lakshmi Pillai,Urology,D12,7
+DR013,Dr. Naveen Menon,Cardiology,D01,12
+DR014,Dr. Bhuvana Krishnan,Orthopedics,D02,13
+DR015,Dr. Revathi Subramanian,Neurology,D03,15
+DR016,Dr. Priya Iyer,Oncology,D04,9
+DR017,Dr. Naveen Reddy,Pediatrics,D05,7
+DR018,Dr. Prakash Raj,Gynecology,D06,11
+DR019,Dr. Vikram Sharma,General Medicine,D07,25
+DR020,Dr. Anitha Subramanian,Emergency,D08,21
+DR021,Dr. Prakash Subramanian,Gastroenterology,D09,24
+DR022,Dr. Arun Sharma,Dermatology,D10,20
+DR023,Dr. Meena Sharma,ENT,D11,18
+DR024,Dr. Lakshmi Kumar,Urology,D12,6
+DR025,Dr. Vikram Menon,Cardiology,D01,20
+DR026,Dr. Lakshmi Kumar,Orthopedics,D02,23
+DR027,Dr. Kavitha Pillai,Neurology,D03,5
+DR028,Dr. Kavitha Natarajan,Oncology,D04,3
+DR029,Dr. Bhuvana Subramanian,Pediatrics,D05,10
+DR030,Dr. Vikram Kumar,Gynecology,D06,9
+DR031,Dr. Sangeetha Iyer,General Medicine,D07,27
+DR032,Dr. Meena Raj,Emergency,D08,18
+DR033,Dr. Bhuvana Natarajan,Gastroenterology,D09,14
+DR034,Dr. Vikram Iyer,Dermatology,D10,7
+DR035,Dr. Priya Raj,ENT,D11,23
+DR036,Dr. Ganesh Menon,Urology,D12,7
+DR037,Dr. Naveen Raj,Cardiology,D01,16
+DR038,Dr. Deepa Raj,Orthopedics,D02,13
+DR039,Dr. Deepa Natarajan,Neurology,D03,19
+DR040,Dr. Anitha Nair,Oncology,D04,6
+DR041,Dr. Anitha Krishnan,Pediatrics,D05,16
+DR042,Dr. Deepa Sharma,Gynecology,D06,29
+DR043,Dr. Meena Menon,General Medicine,D07,24
+DR044,Dr. Vikram Kumar,Emergency,D08,5
+DR045,Dr. Priya Reddy,Gastroenterology,D09,22
+DR046,Dr. Suresh Sharma,Dermatology,D10,18
+DR047,Dr. Lakshmi Krishnan,ENT,D11,3
+DR048,Dr. Revathi Natarajan,Urology,D12,14
+DR049,Dr. Priya Natarajan,Cardiology,D01,5
+DR050,Dr. Mohan Sharma,Orthopedics,D02,14
+DR051,Dr. Divya Reddy,Neurology,D03,8
+DR052,Dr. Rajesh Menon,Oncology,D04,5
+DR053,Dr. Revathi Subramanian,Pediatrics,D05,11
+DR054,Dr. Naveen Reddy,Gynecology,D06,12
+DR055,Dr. Meena Kumar,General Medicine,D07,7
+DR056,Dr. Bhuvana Reddy,Emergency,D08,24
+DR057,Dr. Meena Reddy,Gastroenterology,D09,21
+DR058,Dr. Lakshmi Raj,Dermatology,D10,18
+DR059,Dr. Prakash Iyer,ENT,D11,28
+DR060,Dr. Rajesh Krishnan,Urology,D12,14
